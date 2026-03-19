@@ -59,4 +59,4 @@ En contraste, el campo receptivo de la arquitectura U-Net no colapsó hacia la m
 3. Proveer el token de autenticación de Kaggle (`kaggle.json`) en el directorio raíz o configurar las variables de entorno correspondientes.
 4. Ejecutar el cuaderno principal. El modelo generará dinámicamente una matriz estocástica multicanal de 4 dimensiones (Input, Target, Predicción IA y Overlay Clínico) para auditar la superposición anatómica.
 
-**Documentación Extendida y Aplicaciones Clínicas:** [Consultar el Informe (PDF)](./docs/su_archivo_informe.pdf)
+**Documentación Extendida y Aplicaciones Clínicas:** [Consultar el Informe Técnico (PDF)](./Trabajo_final_vision.pdf)
